@@ -4,8 +4,7 @@ Welcome to my GitHub profile! I'm passionate about coding, and I love to explore
 
 ## 🚀 About Me
 
-- 🌱 I’m currently learning new programming languages and frameworks.
-- 👯 I’m looking to collaborate on open-source projects.
+-  I’m looking to collaborate on open-source projects.
 - 💬 Ask me about Python, JavaScript, and web development.
 
 ## 🛠️ Languages and Tools
