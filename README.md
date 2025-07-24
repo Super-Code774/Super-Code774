@@ -6,10 +6,8 @@ Welcome to my GitHub profile! I'm passionate about coding, and I love to explore
 
 Here are some of the languages and tools I work with:
 
-- **Programming Languages:** Python, Java, C++, bash
-- **Web Development:** HTML, CSS, React, JavaScript
-- **Tools and Platforms:** Git, Docker, VS Code
-
+- **Programming Languages:** Python, JavaScript, C++, bash
+-  **Security Researcher**
 ## 📈 GitHub Stats
 
 ![Super-Code774's GitHub stats](https://github-readme-stats.vercel.app/api?username=Super-Code774&show_icons=true&theme=radical)
